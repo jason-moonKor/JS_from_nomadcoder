@@ -1,0 +1,3 @@
+# JS_from_nomadcoder
+
+날씨 API KEY는 생략...
